@@ -1,0 +1,26 @@
+{
+  "name": "web-speech-chatbot",
+  "version": "1.0.0",
+  "description": "A smart AI chatbot built with Node.js, Express, and Dialogflow. It supports text and voice input using the Web Speech API, and provides real-time conversational responses for websites or apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surafelbkassa/web-speech-chatbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/surafelbkassa/web-speech-chatbot/issues"
+  },
+  "homepage": "https://github.com/surafelbkassa/web-speech-chatbot#readme",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
